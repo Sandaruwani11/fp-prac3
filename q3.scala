@@ -7,7 +7,7 @@ object Average {
 
   def main(args: Array[String]): Unit = {
     val num1 = 10
-    val num2 = 15
+    val num2 = 17
     val average = Average(num1, num2)
     
     println(s"Arithmetic mean of $num1 and $num2 is: $average")
